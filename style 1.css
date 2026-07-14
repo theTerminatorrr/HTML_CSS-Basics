@@ -1,0 +1,14 @@
+.head {
+    color: rgb(13, 20, 225);
+}
+
+#web {
+    background-color: rgb(243, 243, 239);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.input {
+    background-color: rgb(215, 219, 234);
+    border-radius: 7px;
+    width: 250px;
+}
